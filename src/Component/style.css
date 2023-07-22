@@ -1,0 +1,25 @@
+
+
+.custom-navbar{
+    background-color: aqua;
+}
+.custom-carousel{
+    height:600px;
+}
+.custom-card{
+    height: 300px;
+    transition: all 3s;
+}
+
+.zoom:hover .custom-card{
+    transform: scale(1.3);
+}
+.zoom{
+    overflow: hidden;
+}
+.custom-cart{
+    height: 100px;
+}
+.custom-product{
+    height: 200px;
+}
